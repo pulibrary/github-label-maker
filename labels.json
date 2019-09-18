@@ -1,70 +1,98 @@
 [
   {
-    "name": "All Comments Addressed",
-    "color": "006b75"
+    "name": "bug",
+    "color": "ff5050"
   },
   {
-    "name": "Do Not Merge",
-    "color": "b60205"
+    "name": "security",
+    "color": "ff5050"
   },
   {
-    "name": "Final Review Passed",
-    "color": "0e8a16"
+    "name": "accessibility",
+    "color": "ffa573"
   },
   {
-    "name": "Has Dependencies",
-    "color": "5319e7"
+    "name": "content",
+    "color": "ffa573"
   },
   {
-    "name": "Has Unaddressed Comments",
-    "color": "d93f0b"
+    "name": "responsive",
+    "color": "ffa573"
   },
   {
-    "name": "In Development",
-    "color": "fbca04"
+    "name": "user experience",
+    "color": "ffa573"
   },
   {
-    "name": "In QA",
-    "color": "fbca04"
+    "name": "visual design",
+    "color": "ffa573"
   },
   {
-    "name": "In Review",
-    "color": "fbca04"
+    "name": "cleanup",
+    "color": "ffd4a0"
   },
   {
-    "name": "Initial Review Passed",
-    "color": "0e8a16"
+    "name": "optimization",
+    "color": "41d6c3"
   },
   {
-    "name": "Needs Final Review",
-    "color": "b60205"
+    "name": "documentation",
+    "color": "41d6c3"
   },
   {
-    "name": "Needs Rebase",
-    "color": "e99695"
+    "name": "enhancement",
+    "color": "41d6c3"
   },
   {
-    "name": "Pending CI",
-    "color": "fef2c0"
+    "name": "refactor",
+    "color": "44cec0"
   },
   {
-    "name": "QA Failed",
-    "color": "b60205"
+    "name": "feature",
+    "color": "b4e051"
   },
   {
-    "name": "QA Passed",
-    "color": "0e8a16"
+    "name": "migration",
+    "color": "b4e051"
   },
   {
-    "name": "Ready for QA",
-    "color": "c2e0c6"
+    "name": "user-request",
+    "color": "b4e051"
   },
   {
-    "name": "Ready for Review",
-    "color": "c2e0c6"
+    "name": "infrastructure",
+    "color": "b4e051"
   },
   {
-    "name": "Tests Failing",
-    "color": "b60205"
+    "name": "question",
+    "color": "cc317c"
+  },
+  {
+    "name": "replication-needed",
+    "color": "cc317c"
+  },
+  {
+    "name": "spike",
+    "color": "cc317c"
+  },
+  {
+    "name": "user-test",
+    "color": "cc317c"
+  },
+  {
+    "name": "duplicate",
+    "color": "e9e9e9"
+  },
+  {
+    "name": "on hold",
+    "color": "e9e9e9"
+  },
+  {
+    "name": "invalid",
+    "color": "e9e9e9"
+  },
+  {
+    "name": "wontfix",
+    "color": "e9e9e9"
   }
 ]
